@@ -9,7 +9,7 @@
 
 <h2 id="ekran">Outputs</h2>
 <p>
-  <img height= "300"  src="https://raw.githubusercontent.com/Ardadrts/h5170028finalmobil/master/Screens/e1ekrani.png" alt="e1ekrani" />
+  <img height= "250"  src="https://raw.githubusercontent.com/Ardadrts/h5170028finalmobil/master/Screens/e1ekrani.png" alt="e1ekrani" />
   <img height= "300"  src="https://raw.githubusercontent.com/Ardadrts/h5170028finalmobil/master/Screens/e2ekrani.png" alt="e2ekrani" />
   <img height= "300"  src="https://raw.githubusercontent.com/Ardadrts/h5170028finalmobil/master/Screens/e3ekrani.png" alt="e3ekrani" />
   <img height= "300"  src="https://raw.githubusercontent.com/Ardadrts/h5170028finalmobil/master/Screens/cikisdiyalogu.png" alt="cikisyapdiyalogu" />
