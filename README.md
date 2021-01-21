@@ -1,7 +1,7 @@
 
 
 # Ardesa App
-![logo](https://raw.githubusercontent.com/Ardadrts/h5170028ardademirtas/master/img/logo..png)
+![logo](https://raw.githubusercontent.com/Ardadrts/h5170028finalmobil/master/img/logo..png)
 <p>Ardesa App, film özeti anlatan bir uygulamadır.
   Bu uygulamanın temel amacı, Javada Mimari bileşenleri, Retrofit2 vb. Kullanan yüksek kaliteli bir Android uygulamasının nasıl oluşturulacağına dair bir örnek olmaktır.
   
@@ -9,17 +9,17 @@
 
 <h2 id="ekran">Outputs</h2>
 <p>
-  <img height= "300"  src="https://github.com/Ardadrts/h5170028ardademirtas/blob/master/app/screens/e1ekrani.PNG" alt="e1ekrani" />
-  <img height= "300"  src="https://github.com/Ardadrts/h5170028ardademirtas/blob/master/app/screens/e2ekrani.png" alt="e2ekrani" />
-  <img height= "300"  src="https://github.com/Ardadrts/h5170028ardademirtas/blob/master/app/screens/e3ekrani.PNG" alt="e3ekrani" />
-  <img height= "300"  src="https://github.com/Ardadrts/h5170028ardademirtas/blob/master/app/screens/cikisdiyalogu.png" alt="cikisyapdiyalogu" />
-  <img height= "300"  src="https://github.com/Ardadrts/h5170028ardademirtas/blob/master/app/screens/internetdiyalog.png" alt="internetdiyalogu" />
+  <img height= "300"  src="https://raw.githubusercontent.com/Ardadrts/h5170028finalmobil/master/Screens/e1ekrani.png" alt="e1ekrani" />
+  <img height= "300"  src="https://raw.githubusercontent.com/Ardadrts/h5170028finalmobil/master/Screens/e2ekrani.png" alt="e2ekrani" />
+  <img height= "300"  src="https://raw.githubusercontent.com/Ardadrts/h5170028finalmobil/master/Screens/e3ekrani.png" alt="e3ekrani" />
+  <img height= "300"  src="https://raw.githubusercontent.com/Ardadrts/h5170028finalmobil/master/Screens/cikisdiyalogu.png" alt="cikisyapdiyalogu" />
+  <img height= "300"  src="https://raw.githubusercontent.com/Ardadrts/h5170028finalmobil/master/Screens/internetdiyalog.png" alt="internetdiyalogu" />
 
 </p>
 
 ## Architecture
 
-![Architecture](https://github.com/Ardadrts/h5170028ardademirtas/blob/master/img/mimari.PNG)
+![Architecture](https://raw.githubusercontent.com/Ardadrts/h5170028finalmobil/master/img/mimari..PNG)
 
 
 
@@ -29,6 +29,7 @@
 <li><a href="https://github.com/ReactiveX/RxJava">RxJava</a></li>
 <li><a href="https://github.com/square/retrofit">Retrofit2</a></li>
 <li><a href="https://github.com/bumptech/glide">Glide</a></li>
+<li><a href="https://developer.android.com/jetpack/androidx/releases/recyclerview?hl=en">RecyclerView</a></li>
 
 
 
