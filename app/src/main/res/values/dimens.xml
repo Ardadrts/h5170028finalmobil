@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_textsizebaslik">30sp</dimen>
+    <dimen name="card_paddingmargin">16dp</dimen>
+    <dimen name="card_layout_w_h">100dp</dimen>
+    <dimen name="card_textsizeyazi">20sp</dimen>
+    <dimen name="card_padding_filmdetay">10dp</dimen>
+    <dimen name="card_list">200dp</dimen>
+    <dimen name="card_recycleview">0dp</dimen>
+    <dimen name="internet_connection_margin">15dp</dimen>
+    <dimen name="internet_connection_relative">5dp</dimen>
+    <dimen name="internet_connection_textsize">15sp</dimen>
+    <dimen name="internet_connection_marginlayout">15sp</dimen>
+    <dimen name="internet_connection_textsizearkaplan">20dp</dimen>
+    <dimen name="internet_connection_txt">16sp</dimen>
+    <dimen name="internet_connection_marginleft">150dp</dimen>
+    <dimen name="activity_listeabsolutex">220dp</dimen>
+
+</resources>

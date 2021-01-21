@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">h5170028_arda_demirtas_final_proje</string>
+    <string name="internet_connection_text">İnternet Bağlantısı Yok. Lütfen internete bağlanın</string>
+    <string name="internet_connection_ayarlar">Ayarlar</string>
+    <string name="internet_connection_iptal">İptal</string>
+    <string name="internet_connection_uyari">İnternet Bağlantısı Yok</string>
+    <string name="filmdetay_baslik">Oyuncular</string>
+</resources>

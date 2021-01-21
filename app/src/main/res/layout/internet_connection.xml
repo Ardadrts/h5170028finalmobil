@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@color/internet_cikisarkaplan"
+    android:layout_gravity="center"
+    android:layout_margin="@dimen/internet_connection_relative"
+    >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/internet_connection_margin"
+        android:layout_marginTop="@dimen/internet_connection_margin"
+        android:textColor="@color/internet_cikisyazi"
+        android:textSize="@dimen/internet_connection_textsizearkaplan"
+        android:fontFamily="sans-serif"
+        android:text="@string/internet_connection_uyari"
+        android:id="@+id/noInternet"></TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/internet_connection_margin"
+        android:textStyle="bold"
+        android:layout_below="@id/noInternet"
+        android:textColor="@color/internet_cikisyazi"
+        android:textSize="@dimen/internet_connection_txt"
+        android:fontFamily="sans-serif"
+        android:text="@string/internet_connection_text"
+        android:id="@+id/interneterror"></TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/internet_connection_iptal"
+        android:textStyle="bold"
+        android:textSize="@dimen/internet_connection_textsize"
+        android:textColor="@color/internet_cikissecenegi"
+        android:id="@+id/cancel_internet"
+        android:layout_marginLeft="@dimen/internet_connection_marginleft"
+        android:layout_marginBottom="@dimen/internet_connection_margin"
+        android:layout_below="@id/interneterror"></TextView>
+
+    <TextView
+        android:id="@+id/internet_settings"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@id/cancel_internet"
+        android:layout_toRightOf="@id/cancel_internet"
+        android:layout_marginLeft="@dimen/internet_connection_marginlayout"
+        android:text="@string/internet_connection_ayarlar"
+        android:textColor="@color/internet_cikissecenegi"
+        android:textSize="@dimen/internet_connection_textsize"></TextView>
+</RelativeLayout>
