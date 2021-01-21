@@ -29,6 +29,7 @@
 <li><a href="https://github.com/ReactiveX/RxJava">RxJava</a></li>
 <li><a href="https://github.com/square/retrofit">Retrofit2</a></li>
 <li><a href="https://github.com/bumptech/glide">Glide</a></li>
+<li><a href="https://developer.android.com/jetpack/androidx/releases/recyclerview?hl=en">RecyclerView</a></li>
 
 
 
